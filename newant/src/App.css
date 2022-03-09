@@ -1,0 +1,594 @@
+#components-layout-demo-fixed .logo {
+  float: left;
+  width: 120px;
+  height: 31px;
+  margin: 16px 24px 16px 0;
+  background: rgba(255, 255, 255, 0.2);
+}
+.site-layout .site-layout-background {
+  background: #fff;
+}
+
+#wrapper .header .menu .key1 {
+  position: absolute;
+  width: 190px;
+  height: 23.93px;
+  left: 25px;
+  top: 44.48px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #000000;
+}
+
+#wrapper .header .menu .key2 {
+  position: absolute;
+  width: 100px;
+  height: 23.93px;
+  left: 249px;
+  top: 44.48px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #000000;
+
+}
+#wrapper .header .menu .key3 {
+  position: absolute;
+  width: 48px;
+  height: 47.85px;
+  left: 381px;
+  top: 21.7px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #000000;
+
+}
+#wrapper .header .menu .logo1 {
+  position: absolute;
+  width: 255px;
+  height: 37.6px;
+  left: 579px;
+  top: 26.25px;
+
+  background: url(logo1.png);
+}
+#wrapper .header .menu .beta {
+  position: absolute;
+  width: 93px;
+  height: 38px;
+  left: 848px;
+  top: 23px;
+
+  background: url(beta.png);
+}
+/*src/Drodown.jsx*/
+#menu .UserOutLined {
+  position: absolute;
+  width: 23px;
+  height: 17px;
+
+  background: #000000;
+}
+#menu .key0 {
+  position: absolute;
+  width: 192px;
+  height: 38px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #000000;
+
+}
+#menu .CloseCircleOutlined {
+  position: absolute;
+  width: 21.54px;
+  height: 16px;
+
+  background: #000000;
+}
+#menu .key1 {
+  position: absolute;
+  width: 89px;
+  height: 31px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #000000;
+
+}
+
+#menu .dropdown .ant-dropdown-link {
+  position: absolute;
+  width: 55px;
+  height: 23.93px;
+  left: 1299px;
+  top: 39.93px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #000000;
+
+}
+#wrapper .site-layout .join us on {
+  position: absolute;
+  width: 83px;
+  height: 23.93px;
+  left: 633px;
+  top: 136.77px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #000000 
+}
+#wrapper .site-layout .discord {
+  position: absolute;
+  width: 136px;
+  height: 34.18px;
+  left: 720px;
+  top: 127px;
+
+  background: url(discord.png);
+}
+/*src/Card.jsx*/
+#site-card-border-less-wrapper .Card title .icon  {
+  position: absolute;
+  width: 100px;
+  height: 114px;
+  left: 159px;
+  top: 367px;
+
+  background: url(Ellipse2.png);
+}
+#site-card-border-less-wrapper .Card title .Title {
+  position: absolute;
+  width: 311px;
+  height: 45px;
+  left: 54px;
+  top: 500px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+
+}
+#site-card-border-less-wrapper .Card title .url {
+  position: absolute;
+  width: 147px;
+  height: 18px;
+  left: 136px;
+  top: 536px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #000000;
+
+}
+#site-card-border-less-wrapper .Card title .Summary {
+  position: absolute;
+  width: 103px;
+  height: 31px;
+  left: 54px;
+  top: 634px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+
+}
+#site-card-border-less-wrapper .Card title .Initiatives {
+  position: absolute;
+  width: 101px;
+  height: 32px;
+  left: 54px;
+  top: 697px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+
+}
+#site-card-border-less-wrapper .Card title .Task {
+  position: absolute;
+  width: 62px;
+  height: 32px;
+  left: 54px;
+  top: 761px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+
+} 
+#site-card-border-less-wrapper .Card title .ProductTree {
+  position: absolute;
+  width: 135px;
+  height: 32px;
+  left: 54px;
+  top: 820px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+
+}
+/* IdeaBugs */
+#site-card-border-less-wrapper .Card title .IdeaBugs {
+  position: absolute;
+  width: 125px;
+  height: 32px;
+  left: 54px;
+  top: 881px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+
+}
+#site-card-border-less-wrapper .Card title .People {
+  position: absolute;
+  width: 72px;
+  height: 32px;
+  left: 54px;
+  top: 946px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+
+}
+/*Content.jsx*/
+#UserInfo .Comment {
+  position: absolute;
+  width: 1044.59px;
+  height: 21.99px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #000000;
+
+}
+
+#UserInfo .Tasks {
+  position: absolute;
+  width: 853px;
+  height: 64px;
+  left: 414px;
+  top: 299px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+}
+
+#UserInfo .Work {
+  position: absolute;
+  width: 821px;
+  height: 163px;
+  left: 407px;
+  top: 371px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 42px;
+
+  color: #000000;
+
+}
+#UserInfo .button .Claimthetask {
+  position: absolute;
+  width: 190px;
+  height: 41.02px;
+  left: 1214px;
+  top: 371px;
+
+}
+
+#UserInfo .Url {
+  position: absolute;
+  width: 882px;
+  height: 15px;
+  left: 405px;
+  top: 556px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+
+}
+
+#UserInfo .Text {
+  position: absolute;
+  width: 937px;
+  height: 24px;
+  left: 405px;
+  top: 703px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #000000;
+
+}
+
+#wrapper .site-layout .RequiredSkills {
+  position: absolute;
+  width: 470px;
+  height: 32px;
+  left: 583px;
+  top: 792px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #000000;
+
+}
+#wrapper .site-layout .claimed_By {
+  position: absolute;
+  width: 133px;
+  height: 64px;
+  left: 405px;
+  top: 983px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: rgba(0, 0, 0, 0.51);
+}
+
+#wrapper .site-layout .created_By {
+  position: absolute;
+  width: 122px;
+  height: 32px;
+  left: 405px;
+  top: 1025px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: rgba(0, 0, 0, 0.6);
+
+}
+
+#wrapper .site-layout .status {
+  position: absolute;
+  width: 77px;
+  height: 32px;
+  left: 405px;
+  top: 1067px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: rgba(0, 0, 0, 0.58);
+}
+#wrapper .site-layout .Category {
+  position: absolute;
+  width: 251px;
+  height: 287px;
+  left: 405px;
+  top: 1122px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: rgba(0, 0, 0, 0.52);
+
+}
+#wrapper .site-layout .Expertise {
+  position: absolute;
+  width: 100px;
+  height: 28px;
+  left: 405px;
+  top: 1161px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: rgba(0, 0, 0, 0.63);
+
+}
+#wrapper .site-layout .Priority {
+  position: absolute;
+  width: 82px;
+  height: 28px;
+  left: 407px;
+  top: 1204px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: rgba(0, 0, 0, 0.63);
+}
+
+#wrapper .site-layout .related_capability {
+  position: absolute;
+  width: 453px;
+  height: 44px;
+  left: 407px;
+  top: 1296px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: rgba(0, 0, 0, 0.44);
+
+}
+
+#wrapper .site-layout .Initiatives {
+  position: absolute;
+  width: 453px;
+  height: 44px;
+  left: 407px;
+  top: 1350px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: rgba(0, 0, 0, 0.44);
+
+}
+#wrapper .footer .logo1 {
+  position: absolute;
+  width: 272px;
+  height: 42px;
+  left: 34px;
+  top: 1675px;
+
+  background: url(logo1.png);
+}
+
+#wrapper .footer .key1 {
+  position: absolute;
+  width: 151px;
+  height: 66px;
+  left: 731px;
+  top: 1689px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+
+}
+
+#wrapper .footer .key2 {
+  position: absolute;
+  width: 147px;
+  height: 56px;
+  left: 975px;
+  top: 1689px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+}
+#wrapper .footer .key3 {
+  position: absolute;
+  width: 147px;
+  height: 56px;
+  left: 1191px;
+  top: 1690px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+
+}
