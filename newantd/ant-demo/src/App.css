@@ -1,0 +1,361 @@
+@import 'antd/dist/antd.css';
+#components-layout-demo-fixed .logo {
+  float: left;
+  width: 120px;
+  height: 31px;
+  margin: 16px 24px 16px 0;
+  background: rgba(255, 255, 255, 0.2);
+}
+.site-layout .site-layout-background {
+  background: #fff;
+}
+#Layout Header .menu .Menu-Item .key1-title{
+  
+  position: absolute;
+  width: 195.73px;
+  height: 19.24px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #000000;
+}
+#Layout Header .menu .Menu-Item .key2-title {
+  position: absolute;
+  width: 103.02px;
+  height: 19.24px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #000000;
+}
+#Layout Header .menu .key3-title {
+  position: absolute;
+  width: 49.45px;
+  height: 38.49px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #000000;
+}
+  
+#Layout .div .logo1 {
+  position: absolute;
+  width: 218.4px;
+  height: 30.24px;
+
+  background: url(images/logo1.png);
+}
+#Layout .div .beta {
+  position: absolute;
+  width: 62.84px;
+  height: 30.24px;
+
+  background: url(images/beta.svg);
+}
+#Layout .Avartar .icon {
+  position: absolute;
+  width: 65.93px;
+  height: 51.32px;
+
+  background: #56066A;
+}
+#Layout .Dropdown {
+  position: absolute;
+  width: 12.36px;
+  height: 16.5px;
+}
+#Layout .Content .discord {
+  position: absolute;
+  width: 140.1px;
+  height: 27.49px;
+
+  background: url(images/discord.svg);
+
+  /* Join us on */
+
+
+  position: absolute;
+  width: 87.06px;
+  height: 19.24px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #000000;
+
+}
+
+#MenuPage .Dropdown {
+  position: absolute;
+  width: 297px;
+  height: 122px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #000000;
+} 
+#MenuPage .Dropdown .key0 {
+  position: absolute;
+  width: 257px;
+  height: 38px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #000000;
+
+}
+
+#MenuPage .Dropdown-menu {
+  position: absolute;
+  width: 12.59px;
+  height: 16.5px;
+}
+#MenuPage .ant-dropdown-link {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 21px;
+  /* identical to box height */
+
+
+  color: #000000;
+
+}
+#TabsCard .Task .button{
+  position: absolute;
+  width: 110.14px;
+  height: 27.49px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #12A4F7;
+}
+#TabsCard .Task {
+  position: absolute;
+  width: 402.24px;
+  height: 482.33px;
+}
+#TabCard .Card {
+  position: absolute;
+  width: 402.24px;
+  height: 482.33px;
+}
+
+#TabCard .Card-title-1 .discription {
+  position: absolute;
+  width: 384.97px;
+  height: 200.69px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #12A4F7;
+}
+#TabCard .Card-title-1 .Task-Comment {
+  position: absolute;
+  width: 304.2px;
+  height: 51.32px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+}
+#TabCard .Card-title-1 .Product-title {
+  position: absolute;
+  width: 88.11px;
+  height: 25.66px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+}
+#TabCard .Card-title-1 .Product-Video-title .icon {
+  position: absolute;
+  width: 36.71px;
+  height: 30.24px;
+}
+#TabCard .Card-title-1 .Product-Video-title {
+  position: absolute;
+  width: 315.74px;
+  height: 25.66px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #12A4F7;
+}
+#TabCard .Card-title-1 .Priority {
+  position: absolute;
+  width: 110.14px;
+  height: 35.74px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: rgba(0, 0, 0, 0.53);
+} 
+
+#TabCard .Card-title-1 .Status {
+  position: absolute;
+  width: 73.43px;
+  height: 25.66px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: rgba(0, 0, 0, 0.55);
+}
+#TabCard .Card-title-1 .Skills {
+  position: absolute;
+  width: 167.83px;
+  height: 25.66px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: rgba(0, 0, 0, 0.59);
+}
+
+#TabsCard .Product-title {
+  position: absolute;
+  width: 101.75px;
+  height: 25.66px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+}
+
+
+
+#Layout .Content Filter {
+  position: absolute;
+  width: 114.34px;
+  height: 41.24px;
+
+}
+
+#Layout .Footer  .logo {
+  position: absolute;
+  width: 12.36px;
+  height: 16.5px;
+
+  background: url(logo1.png);
+}
+#Layout .Footer .key1 {
+  position: absolute;
+  width: 237px;
+  height: 56px;
+  left: 422px;
+  top: 968px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+
+}
+#Layout .Footer .Key2 {
+  position: absolute;
+  width: 154px;
+  height: 56px;
+  left: 750px;
+  top: 968px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+}
+#Layout .Footer .Key3 {
+  position: absolute;
+  width: 149px;
+  height: 56px;
+  left: 974px;
+  top: 968px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+
+}
+#Layout .Footer .Key4 {
+  position: absolute;
+  width: 118px;
+  height: 28px;
+  left: 1247px;
+  top: 968px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+
+}
